@@ -1,0 +1,6 @@
+.gdb*
+peda-session*
+tmp*
+cgc
+
+/example/*.o
