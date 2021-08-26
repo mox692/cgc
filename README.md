@@ -1,6 +1,6 @@
 # cgc
-A toy garbage collector for C.
-Under experiment...
+A toy garbage collector for C.  
+(Under experiment
 
 ### feature
 * Using mark and sweep like algorithm.
