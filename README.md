@@ -18,5 +18,4 @@ pointer that pointing to object.
 See `/example` directory.
 
 ### Reference
-* [tgc](https://github.com/orangeduck/tgc)
-* [gc](https://github.com/mkirchner/gc)
+I refferd some awesome repositories, [tgc](https://github.com/orangeduck/tgc), [gc](https://github.com/mkirchner/gc).
